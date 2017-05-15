@@ -1,0 +1,13 @@
+Name: lichao
+
+Specification:
+	Simulation of a 3D spherical ball bouncing in a box, Aim to learn the basic notions of physical simulation and to get the use of OPENGL and GLUT.
+
+Operations:
+	1."make" the file, run it(./bounceInBox) 		
+	2.Press "t" or "T" to throw the ball. To speed up, do not let button up
+	3.Press left button of mouse to rotate and roll the middle button to change the viewpoint
+	4.Press "f" or "F" to set the center of focus 
+	5.Press "m" or "M" to change the color of box
+	4.Press "r" or "R" to reset. then go to step 2
+	5.Press "q" or "Q" to quit
